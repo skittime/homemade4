@@ -1,7 +1,7 @@
 package ru.x5;
 
 public abstract class Main implements Shape {
-    int a = 2, b = 4, r = 14, h = 111;
+    double a, b, r, h;
 
     public static void main(String[] args) {
         Shape[] shape = new Shape[3];
