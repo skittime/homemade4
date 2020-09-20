@@ -1,4 +1,4 @@
-package ru.x5;
+package ru.x5.square;
 
 public abstract class Main implements Shape {
     double a, b, r, h;
@@ -13,4 +13,5 @@ public abstract class Main implements Shape {
         }
     }
 
-}
+    }
+

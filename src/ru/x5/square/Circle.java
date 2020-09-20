@@ -1,4 +1,4 @@
-package ru.x5;
+package ru.x5.square;
 
 public class Circle extends Main {
     public double square() {
